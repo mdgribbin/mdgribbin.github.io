@@ -1,16 +1,16 @@
 # Icons on the footer
-rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+rss: false         # Make sure you created a feed.xml with feed.xml layout
+email_address:  me@mattgribbin.com  # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "mdgribbin"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/matthew-gribbin-bb684285/        # Full URL
 pinterest:
 reddit:
 soundcloud:
