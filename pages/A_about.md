@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 ---
-<img align="right" src="../assets/img/me2.png"/>
+<img align="right" src="../assets/img/me_2.png"/>
 
 Hi, I'm Matt. I'm from Downingtown, Pennsylvania, and I graduated from Penn State University in 2017 with a degree in Industrial Engineering. With the exception of one introductory computer science course during my undergraduate studies, I am an almost entirely self-taught programmer. Check out my portfolio to learn more about some of the cool stuff I've worked on!
 
